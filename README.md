@@ -26,10 +26,10 @@ Celem projektu jest stowrzenie aplikacji quizowej umożliwającej tworzenie, roz
 ## 📦 Struktura katalogów
 
 quizz-app-projekt/
-|------ frontend/ # Aplikacja Next.js
-|------ quizz-app-api/ # Bakcend z REST API
-|------ keycloak/ # Konfiguracja Keycloak
-|------ README.md
+- frontend/ # Aplikacja Next.js
+- quizz-app-api/ # Bakcend z REST API
+- keycloak/ # Konfiguracja Keycloak
+- README.md
 
 ## 🧪 Funkcjonalności
 
